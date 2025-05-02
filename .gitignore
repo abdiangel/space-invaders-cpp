@@ -4,3 +4,4 @@ CMakeFiles/
 *.o
 *.obj
 *.exe
+.DS_Store
