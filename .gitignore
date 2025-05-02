@@ -1,0 +1,6 @@
+/bin/
+CMakeFiles/
+/CMakeCache.txt
+*.o
+*.obj
+*.exe
